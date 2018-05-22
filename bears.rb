@@ -20,5 +20,7 @@ class Bear
     return sound
   end
 
+  def remove_fish
+  end 
 
 end

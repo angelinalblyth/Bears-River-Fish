@@ -7,8 +7,6 @@ class River
     @fish = []
   end
 
-
-
   def fish_count()
     return @fish.length()
   end
@@ -18,8 +16,6 @@ class River
   end
 
   def remove_fish
-
-  end
-
+  end 
 
 end
